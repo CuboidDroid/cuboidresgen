@@ -24,7 +24,7 @@ Assuming you've created a coal quantum singularity using the Cuboid Quantum Sing
 
 ``` json
 {
-  "input": "cuboidsingularities:qs_coal",
+  "input": "cuboidqtmsngl:qs_coal",
   "output": "minecraft:coal",
   "enabled": false,
   "iron": {
