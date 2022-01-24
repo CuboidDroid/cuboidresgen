@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,lit=false": { "model": "cuboidsrg:block/netherite_srg" },
+        "facing=east,lit=false": { "model": "cuboidsrg:block/netherite_srg", "y": 90 },
+        "facing=south,lit=false": { "model": "cuboidsrg:block/netherite_srg", "y": 180 },
+        "facing=west,lit=false": { "model": "cuboidsrg:block/netherite_srg", "y": 270 },
+        "facing=north,lit=true": { "model": "cuboidsrg:block/netherite_srg_lit" },
+        "facing=east,lit=true": { "model": "cuboidsrg:block/netherite_srg_lit", "y": 90 },
+        "facing=south,lit=true": { "model": "cuboidsrg:block/netherite_srg_lit", "y": 180 },
+        "facing=west,lit=true": { "model": "cuboidsrg:block/netherite_srg_lit", "y": 270 }
+    }
+}

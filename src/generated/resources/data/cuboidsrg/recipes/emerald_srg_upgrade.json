@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $#",
+    "#@#",
+    "#! "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:emerald_block"
+    },
+    "$": {
+      "item": "minecraft:blast_furnace"
+    },
+    "!": {
+      "item": "minecraft:crafting_table"
+    },
+    "@": {
+      "item": "cuboidsrg:diamond_srg"
+    }
+  },
+  "result": {
+    "item": "cuboidsrg:emerald_srg"
+  }
+}

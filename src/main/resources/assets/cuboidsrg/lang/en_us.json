@@ -1,0 +1,20 @@
+{
+  "jei.category.cuboidsrg.resource_generating": "Resource Generating",
+
+  "block.cuboidsrg.iron_srg": "Iron SRG",
+  "container.cuboidsrg.iron_srg": "Iron Singularity Resource Generator",
+
+  "block.cuboidsrg.gold_srg": "Gold SRG",
+  "container.cuboidsrg.gold_srg": "Gold Singularity Resource Generator",
+
+  "block.cuboidsrg.diamond_srg": "Diamond SRG",
+  "container.cuboidsrg.diamond_srg": "Diamond Singularity Resource Generator",
+
+  "block.cuboidsrg.emerald_srg": "Emerald SRG",
+  "container.cuboidsrg.emerald_srg": "Emerald Singularity Resource Generator",
+
+  "block.cuboidsrg.netherite_srg": "Netherite SRG",
+  "container.cuboidsrg.netherite_srg": "Netherite Singularity Resource Generator",
+
+  "cuboidsrg.hover_text.singularity_resource_generator": "Singularity Resource Generator - passive producer of resources."
+}
